@@ -41,7 +41,7 @@ const Projects = () => {
                             </h3>
                         </div>
                         <span className="text-sm text-fuchsia-400 font-mono">Jan. 2026</span>
-                        <p className="text-base text-stone-500 mt-3 line-clamp-3">
+                        <p className="text-base text-stone-500 mt-3 line-clamp-3 hover:line-clamp-none">
                             Full-stack BI tool that converts natural language voice/text into SQL queries, enabling non-technical users to extract insights without code.
                         </p>
                     </div>
@@ -90,7 +90,7 @@ const Projects = () => {
                             </h3>
                         </div>
                         <span className="text-sm text-fuchsia-400 font-mono">Apr. 2025 • Hackathon (56+ teams)</span>
-                        <p className="text-base text-stone-500 mt-3 line-clamp-3">
+                        <p className="text-base text-stone-500 mt-3 line-clamp-3 hover:line-clamp-none">
                             Real-time safety app with SOS triggers, NLP chatbot support, and WebSocket-powered location sharing for instant emergency response.
                         </p>
                     </div>
@@ -136,7 +136,7 @@ const Projects = () => {
                             </h3>
                         </div>
                         <span className="text-sm text-fuchsia-400 font-mono">Personal Project</span>
-                        <p className="text-base text-stone-500 mt-3 line-clamp-3">
+                        <p className="text-base text-stone-500 mt-3 line-clamp-3 hover:line-clamp-none">
                             Interactive movie recommender using collaborative filtering and TMDB API with trailer integration and responsive search.
                         </p>
                     </div>

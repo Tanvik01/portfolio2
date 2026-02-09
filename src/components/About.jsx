@@ -2,7 +2,7 @@ const About = () => {
     return (
         <section id="about" className="space-y-10 animate-in delay-100">
             <div className="space-y-6">
-                <h1 className="text-6xl sm:text-7xl font-medium tracking-normal text-white uppercase">
+                <h1 className="text-6xl sm:text-7xl font-medium tracking-normal text-white uppercase animate-game-intro">
                     Hello!
                     <span className="text-fuchsia-400"> I'm Tanvi  </span>
 
